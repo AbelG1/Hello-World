@@ -1,4 +1,3 @@
 # Hello-World
-Learning how to use a repository
-
+I will learn about Repositories and Branches
 I am passionite about technology and increasing my skills
